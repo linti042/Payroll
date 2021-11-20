@@ -3,7 +3,7 @@ package com.example.payroll;
 public class EmployeeNotFoundException extends RuntimeException {
 
     EmployeeNotFoundException(Long id) {
-        super("Could not find employee " + id);
+        super("Nem található a " + id + " azonosítójú alkalmazott.");
     }
 
 }
