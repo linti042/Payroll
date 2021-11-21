@@ -14,6 +14,7 @@ class EmployeeController {
         this.repository = repository;
     }
 
+    // egy kiegészítés
     // újabb kiegészítés a kódhoz
     //egy kis próba
     // Aggregate root

@@ -16,7 +16,7 @@ class Employee {
     Employee() {}
 
     Employee(String name, String role) {
-
+        // getter + setter constructor
         this.name = name;
         this.role = role;
     }
