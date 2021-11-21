@@ -14,6 +14,7 @@ class EmployeeController {
         this.repository = repository;
     }
 
+    // újabb kiegészítés a kódhoz
     //egy kis próba
     // Aggregate root
     // tag::get-aggregate-root[]
