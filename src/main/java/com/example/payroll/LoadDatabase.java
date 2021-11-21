@@ -11,6 +11,8 @@ class LoadDatabase {
 
     private static final Logger log = LoggerFactory.getLogger(LoadDatabase.class);
 
+    // git merge miatt
+    
     @Bean
     CommandLineRunner initDatabase(EmployeeRepository repository) {
 
